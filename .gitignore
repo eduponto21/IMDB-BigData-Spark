@@ -158,3 +158,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+Data/download em 2-12-23.txt
+Data/name.basics.tsv
+Data/title.akas.tsv
+Data/title.basics.tsv
+Data/title.crew.tsv
+Data/title.episode.tsv
+Data/title.principals.tsv
+Data/title.ratings.tsv
